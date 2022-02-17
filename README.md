@@ -94,4 +94,4 @@ Project Link: [https://github.com/Abreham-13/startapp_calculator)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Yonatan ](https://github.com/yonathanfeyessa)
+* [Yonatan Feyessa ](https://github.com/yonathanfeyessa)
